@@ -1,4 +1,4 @@
-# task-1-NancyAliasShivaniKumari
+# task-1-rule-based-chatbot
 A chatbot built with Python that uses if-else logic, dictionaries and loops to respond to predefined user inputs. It handles greetings, common queries, and exit commands while demonstrating basic AI decision-making.
 
-Repository for task 1 as a Decode labs intern 
+This project was completed as Task 1 during my Decode Labs Internship.
